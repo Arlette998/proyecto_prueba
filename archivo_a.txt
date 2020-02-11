@@ -1,0 +1,8 @@
+
+Practica de comandos Git
+[master a765933] Arlette Peralta
+ 3 files changed, 3 insertions(+)
+ create mode 100644 archivo_c.txt
+Segunda parte
+[master 0b6acc7] Añado líneas en el archivo_a.txt
+ 2 files changed, 2 insertions(+)

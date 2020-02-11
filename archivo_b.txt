@@ -1,0 +1,14 @@
+Editando archivos...
+On branch master
+Changes not staged for commit:
+	modified:   archivo_a.txt
+	modified:   archivo_c.txt
+
+no changes added to commit
+Editando commit b
+On branch master
+Changes not staged for commit:
+	modified:   archivo_a.txt
+	modified:   archivo_c.txt
+
+no changes added to commit
